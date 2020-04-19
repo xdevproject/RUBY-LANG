@@ -1,2 +1,1 @@
-# develruby
-Devel Depot
+Development Depot
